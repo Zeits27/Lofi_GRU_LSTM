@@ -1,9 +1,12 @@
 streamlit==1.52.1
+
 numpy<2.0
 pandas
+
 tensorflow==2.15.0
 keras==2.15.0
 tensorboard==2.15.0
+
 music21
 pretty-midi
 soundfile
